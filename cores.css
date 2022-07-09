@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>1°Exercicio - Css</title>
+    <link rel="stylesheet" href="cores.css">
+</head>
+<body>
+    
+  <h1 style="color:aliceblue">Júpter</h1>
+    <h3 style="color:blue">Lista de luas</h3>
+    <ul>
+        <li>Metis</li>
+        <li>Adrasteia</li>
+        <li>Almateia</li>
+        <li>Tebe</li>
+        <li>Lo</li>
+        <li>Europa</li>
+        <li>Ganimedes</li>
+        <li>Calisto</li>
+        <li>Temisto</li>
+        <li>+60</li>
+    </ul>
+</body>
+</html>
+
+li {
+    color:white;
+}
+h1 {
+    font-size: 50px; background-color:black;
+    border: 2px dashed #d82c2c
+}
+body {
+    background-image: url(https://www.correiodopovo.com.br/image/policy:3.217821:1547850144/461062.JPG?f=2x1&$p$f=78e83e1&w=1200&$w=9c05b01);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
